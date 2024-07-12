@@ -3,9 +3,9 @@
 This repository will contain my Javascripts projects
 
 ## Table of Contents
-1. [Calculator](#calculator)
-2. [Pizza Menu](#pizza-menu)
-3. [Tic-Tac-Toe](#tic-tac-toe)
+- [Calculator](#calculator)
+- [Pizza Menu](#pizza-menu)
+- [Tic-Tac-Toe](#tic-tac-toe)
 
 ## Calculator
 
